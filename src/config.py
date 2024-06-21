@@ -1,0 +1,5 @@
+API_KEY = 'your_api_key'
+SECRET_KEY = 'your_secret_key'
+BASE_URL = 'https://paper-api.alpaca.markets'
+START_DATE = '2023-01-01'
+END_DATE = '2023-12-31'

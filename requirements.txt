@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+ta
+yfinance
+schedule
+requests
+pyyaml
