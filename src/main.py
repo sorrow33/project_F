@@ -89,3 +89,4 @@ if __name__ == "__main__":
     portfolio.display_portfolio()  # Afficher le portefeuille au démarrage
     prompt_user_for_action()
     portfolio.save_portfolio()
+
